@@ -1,7 +1,9 @@
 {
   "name": "pnpm-on-vercel-reproduction",
   "private": true,
-  "scripts": {},
+  "scripts": {
+    "build": "echo 'Built!'"
+  },
   "dependencies": {
     "@algolia/autocomplete-js": "1.18.1",
     "@algolia/autocomplete-theme-classic": "1.18.1",
